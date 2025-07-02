@@ -52,7 +52,7 @@ export default function PricingCards() {
   const adminPlans = [
     {
       name: "Младший Админ",
-      price: "1499",
+      price: "400",
       duration: "30 дней",
       color: "from-cs2-blue to-blue-600",
       features: [
@@ -65,7 +65,7 @@ export default function PricingCards() {
     },
     {
       name: "Старший Админ",
-      price: "2499",
+      price: "700",
       duration: "30 дней",
       color: "from-cs2-purple to-purple-600",
       premium: true,
