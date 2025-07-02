@@ -7,7 +7,7 @@ export default function PricingCards() {
   const vipPlans = [
     {
       name: "VIP Bronze",
-      price: "300",
+      price: "200",
       duration: "30 дней",
       color: "from-amber-500 to-orange-500",
       features: [
@@ -20,7 +20,7 @@ export default function PricingCards() {
     },
     {
       name: "VIP Silver",
-      price: "200",
+      price: "350",
       duration: "30 дней",
       color: "from-gray-400 to-gray-600",
       popular: true,
